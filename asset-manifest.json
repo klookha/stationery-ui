@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stationery-ui/static/css/main.28382c77.css",
+    "main.js": "/stationery-ui/static/js/main.6d43a7b8.js",
+    "index.html": "/stationery-ui/index.html",
+    "main.28382c77.css.map": "/stationery-ui/static/css/main.28382c77.css.map",
+    "main.6d43a7b8.js.map": "/stationery-ui/static/js/main.6d43a7b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28382c77.css",
+    "static/js/main.6d43a7b8.js"
+  ]
+}
