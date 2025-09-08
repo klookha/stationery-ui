@@ -3,6 +3,7 @@
 
 Using React + TypeScript + TailwindCSS:
 
+```
 stationery-ui/
 ├── public/
 ├── src/
@@ -31,6 +32,7 @@ stationery-ui/
 ├── tsconfig.json
 ├── package.json
 └── README.md
+```
 
 
 Take images from here
